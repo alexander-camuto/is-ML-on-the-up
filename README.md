@@ -1,6 +1,8 @@
 # Is deep learning getting better ? 
 
-Compilation of papers demonstrating that sometimes older is better. Most of these papers demonstrate, usually empirically, that old neural network architectures can match and sometimes outperform current state of the art architectures if their hyper-parameters are tuned properly. 
+Compilation of papers demonstrating that sometimes older is better.
+Most of these papers demonstrate, usually empirically, that old neural network architectures can match and sometimes outperform current state of the art architectures if their hyper-parameters are tuned properly.
+Some argue more broadly that how we evaluate ML models is borked -- real-world usage is so far from the academic setting that it is hard to glean much from published papers.
 
 ## Papers
 
