@@ -5,6 +5,7 @@ Most of these papers show, usually empirically, that old neural network architec
 
 ## Papers
 
+- [Are Pre-trained Convolutions Better than Pre-trained Transformers?](https://arxiv.org/pdf/2105.03322.pdf), Yi Tay, Mostafa Dehghani, Jai Gupta, Dara Bahri, Vamsi Aribandi, Zhen Qin, Donald Metzler (2021)
 - [Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579), Irwan Bello, William Fedus, Xianzhi Du, Ekin D. Cubuk, Aravind Srinivas, Tsung-Yi Lin, Jonathon Shlens, Barret Zoph (2021)
 - [Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images](https://arxiv.org/abs/2011.10650), Rewon Child (2021)
 - [An Evaluation of Change Point Detection Algorithms](https://arxiv.org/abs/2003.06222), Gerrit J.J. van den Burg, Christopher K.I. Williams (2020)
